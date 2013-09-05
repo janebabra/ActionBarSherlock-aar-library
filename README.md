@@ -3,7 +3,6 @@ ActionBarSherlock-aar-library
 
 ActionBarSherlock aar library for Android Studio
 
-ActionBar Sherlock Example for Android Studio
 
 This Android Studio Project is part of the book
 
